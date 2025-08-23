@@ -10,7 +10,7 @@ function isPalindrome(s: string): boolean {
             return false
         } else {
             left++;
-            right++;
+            right--;
         }
 
     }
