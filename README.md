@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Athuldevan/Leetcode./tree/master/1806-count-of-matches-in-tournament) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Athuldevan/Leetcode./tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Athuldevan/Leetcode./tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
