@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Athuldevan/Leetcode./tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Athuldevan/Leetcode./tree/master/1806-count-of-matches-in-tournament) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Athuldevan/Leetcode./tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Athuldevan/Leetcode./tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Athuldevan/Leetcode./tree/master/0125-valid-palindrome) |
+| [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
 ## String
 |  |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0792-binary-search](https://github.com/Athuldevan/Leetcode./tree/master/0792-binary-search) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
