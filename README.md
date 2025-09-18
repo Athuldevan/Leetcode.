@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Athuldevan/Leetcode./tree/master/2106-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Athuldevan/Leetcode./tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
