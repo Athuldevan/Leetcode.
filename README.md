@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Athuldevan/Leetcode./tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Athuldevan/Leetcode./tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Athuldevan/Leetcode./tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Athuldevan/Leetcode./tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Athuldevan/Leetcode./tree/master/1848-sum-of-unique-elements) |
