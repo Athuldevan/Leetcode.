@@ -1,0 +1,20 @@
+/**
+ * @param {string} allowed
+ * @param {string[]} words
+ * @return {number}
+ */
+var countConsistentStrings = function (allowed, words) {
+    let count = 0 
+    for (let i = 0; i < words.length; i++) {
+        let isConsistent = true;
+        for (let j = 0; j < words[i].length; j++) {
+            if (allowed.includes(words[i][j]) === false) {// not including words
+                isConsistent = false;
+                break
+            }
+        }
+
+        if (isConsistent) count++;
+    }
+return count
+};
