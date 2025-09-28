@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Athuldevan/Leetcode./tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Athuldevan/Leetcode./tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Athuldevan/Leetcode./tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Athuldevan/Leetcode./tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Athuldevan/Leetcode./tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Athuldevan/Leetcode./tree/master/1806-count-of-matches-in-tournament) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Athuldevan/Leetcode./tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Athuldevan/Leetcode./tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Athuldevan/Leetcode./tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Athuldevan/Leetcode./tree/master/1635-number-of-good-pairs) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -146,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
