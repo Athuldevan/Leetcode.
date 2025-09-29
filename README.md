@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Athuldevan/Leetcode./tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Athuldevan/Leetcode./tree/master/2432-number-of-zero-filled-subarrays) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
+| [4008-restore-finishing-order](https://github.com/Athuldevan/Leetcode./tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Athuldevan/Leetcode./tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Athuldevan/Leetcode./tree/master/1848-sum-of-unique-elements) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
+| [4008-restore-finishing-order](https://github.com/Athuldevan/Leetcode./tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
