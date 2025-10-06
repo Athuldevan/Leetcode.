@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Athuldevan/Leetcode./tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/Athuldevan/Leetcode./tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Athuldevan/Leetcode./tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Athuldevan/Leetcode./tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Athuldevan/Leetcode./tree/master/1786-count-the-number-of-consistent-strings) |
