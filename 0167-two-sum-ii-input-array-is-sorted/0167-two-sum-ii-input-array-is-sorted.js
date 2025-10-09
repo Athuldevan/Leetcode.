@@ -3,15 +3,22 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function (nums, target) {
+var twoSum = function (nums, t) {
     for (let i = 0; i < nums.length; i++) {
-        let p = i + 1;
-        while (p != nums.length) {
-            if (nums[i] + nums[p] === target) {
-                return [i + 1, p + 1];
-                break;
+        let left = i + 1
+        let right = nums.length - 1;
+        let target = t - nums[i]
+        while (left <= right) {
+            let mid = Math.floor((left + right) / 2);
+            if (nums[mid] === target) {
+                return [i + 1, mid + 1]
+            } else if (nums[mid] > target) {
+                right = mid - 1
+            } else {
+                left = mid+1;
             }
-            p++;
+
+
         }
     }
 
