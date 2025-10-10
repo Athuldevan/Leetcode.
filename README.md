@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Athuldevan/Leetcode./tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/Athuldevan/Leetcode./tree/master/0875-longest-mountain-in-array) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Athuldevan/Leetcode./tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Athuldevan/Leetcode./tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
+| [0875-longest-mountain-in-array](https://github.com/Athuldevan/Leetcode./tree/master/0875-longest-mountain-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
 ## String
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/Athuldevan/Leetcode./tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/Athuldevan/Leetcode./tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Athuldevan/Leetcode./tree/master/2324-find-triangular-sum-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/Athuldevan/Leetcode./tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
