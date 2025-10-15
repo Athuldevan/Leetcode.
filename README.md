@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Athuldevan/Leetcode./tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Athuldevan/Leetcode./tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Athuldevan/Leetcode./tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Athuldevan/Leetcode./tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/Athuldevan/Leetcode./tree/master/0782-jewels-and-stones) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Athuldevan/Leetcode./tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Athuldevan/Leetcode./tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -133,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Athuldevan/Leetcode./tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Athuldevan/Leetcode./tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Athuldevan/Leetcode./tree/master/1786-count-the-number-of-consistent-strings) |
