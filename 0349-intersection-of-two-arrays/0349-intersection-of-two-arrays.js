@@ -4,13 +4,9 @@
  * @return {number[]}
  */
 var intersection = function(nums1, nums2) {
-    const ans =[]
-    for(let i = 0; i<nums1.length; i++) {
-        if((nums2.includes(nums1[i])) &&( ans.includes(nums1[i]) === false)){
-            ans.push(nums1[i])
-        }
-    }
-
-    return ans;
+    const set1 = new Set(nums1);
+    const set2 = new Set(nums2);
+    console.log(set1)
+    return Array.from(set1.intersection(set2));
     
 };
