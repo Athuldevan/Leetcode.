@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/Athuldevan/Leetcode./tree/master/1306-minimum-absolute-difference) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Athuldevan/Leetcode./tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/Athuldevan/Leetcode./tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Athuldevan/Leetcode./tree/master/1603-running-sum-of-1d-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/Athuldevan/Leetcode./tree/master/1306-minimum-absolute-difference) |
 ## Simulation
 |  |
 | ------- |
