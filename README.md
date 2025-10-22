@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Athuldevan/Leetcode./tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Athuldevan/Leetcode./tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Athuldevan/Leetcode./tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Athuldevan/Leetcode./tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Athuldevan/Leetcode./tree/master/2432-number-of-zero-filled-subarrays) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Athuldevan/Leetcode./tree/master/3704-count-partitions-with-even-sum-difference) |
 | [4008-restore-finishing-order](https://github.com/Athuldevan/Leetcode./tree/master/4008-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Athuldevan/Leetcode./tree/master/1603-running-sum-of-1d-array) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Athuldevan/Leetcode./tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
