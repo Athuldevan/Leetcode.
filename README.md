@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Athuldevan/Leetcode./tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Athuldevan/Leetcode./tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Athuldevan/Leetcode./tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/Athuldevan/Leetcode./tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Athuldevan/Leetcode./tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Athuldevan/Leetcode./tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Athuldevan/Leetcode./tree/master/1013-fibonacci-number) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Athuldevan/Leetcode./tree/master/0319-bulb-switcher) |
 | [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 ## Number Theory
 |  |
