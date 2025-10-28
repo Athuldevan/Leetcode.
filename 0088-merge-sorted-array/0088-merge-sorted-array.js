@@ -5,18 +5,24 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
-var merge = function(nums1, m, nums2, n) {
-    let p1 =0;
-    let p2=0;
-    let nums1Copy = nums1.slice(0, m);
-    for(let i =0; i<m+n; i++){
-        if( p2 >= n || (p1 < m && nums1Copy[p1]<nums2[p2])) {
-            nums1[i] = nums1Copy[p1];
-            p1++;
-        }else {
-            nums1[i] = nums2[p2];
-            p2++;
-        }
+var merge = function (nums1, m, nums2, n) {
+    let p1 = m - 1;
+    let p2 = n - 1;
+    let k = (m + n) - 1;
+    while (p1 >= 0 && p2 >= 0) {
+        if (nums1[p1] > nums2[p2]) {
+            nums1[k] = nums1[p1];
+            p1--
+        } else {
+            nums1[k] = nums2[p2];
+            p2--
+        };
+        k--
     }
-    
+    while (p2 >= 0) {
+        nums1[k] = nums2[p2];
+        p2--
+        k--
+    }
+
 };
