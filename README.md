@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Athuldevan/Leetcode./tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Athuldevan/Leetcode./tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Athuldevan/Leetcode./tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/Athuldevan/Leetcode./tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/Athuldevan/Leetcode./tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/Athuldevan/Leetcode./tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Athuldevan/Leetcode./tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1791-richest-customer-wealth](https://github.com/Athuldevan/Leetcode./tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Athuldevan/Leetcode./tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Linked List
 |  |
