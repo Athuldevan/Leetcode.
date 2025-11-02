@@ -3,10 +3,15 @@
  * @param {number[]} nums2
  * @return {number[]}
  */
-var intersection = function(nums1, nums2) {
-    const set1 = new Set(nums1);
-    const set2 = new Set(nums2);
-    console.log(set1)
-    return Array.from(set1.intersection(set2));
-    
+var intersection = function(a, b) {
+    let res = [];
+    for (let i = 0; i < a.length; i++) {
+        for (let j = 0; j < b.length; j++) {
+            if (a[i] === b[j] && !res.includes(a[i])) {
+                res.push(a[i]);
+            }
+        }
+    }
+
+    return res;
 };
