@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0908-middle-of-the-linked-list) |
 ## Design
