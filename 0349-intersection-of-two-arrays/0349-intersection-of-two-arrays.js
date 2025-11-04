@@ -4,20 +4,16 @@
  * @return {number[]}
  */
 var intersection = function (nums1, nums2) {
-    nums1.sort((a, b) => a - b);
-    nums2.sort((a, b) => a - b);
-    let p = 0;
+    let set1 = new Set(nums1);
+    let set2 = new Set(nums2);
     const res = [];
-    for (let i = 0; i < nums1.length; i++) {
-        let p = 0;
-        while (p < nums2.length) {
-            if (nums1[i] === nums2[p] && !(res.includes(nums2[p]))) {
-                res.push(nums2[p])
-            }
-            p++;
+    const arr1 = Array.from(set1)
+    for (let i = 0; i < arr1.length; i++) {
+        if (set2.has(arr1[i])) {
+            res.push(arr1[i])
+
         }
 
     };
-
     return res;
 };
