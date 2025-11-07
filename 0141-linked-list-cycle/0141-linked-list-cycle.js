@@ -12,19 +12,17 @@
  */
 var hasCycle = function (head) {
     if (!head) return false;
-    const set = new Set();
-    let curr = head;
-    console.log(curr.next)
-    while (curr) {
-        // If found null then its not cyclic LL but normal LL
-        if (set.has(curr)) {
-            return true;
-        } else {
-            set.add(curr);
-            curr =  curr.next;
+    let slow = head;
+    let fast = head;
+    while (fast && fast.next) {
+        slow = slow.next;
+        fast = fast.next.next;
+        if (slow === fast) {
+            return true
+
         }
+
     };
-    console.log(set)
-    return false;
+    return false
 
 };
