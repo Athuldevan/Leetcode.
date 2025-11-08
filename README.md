@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Athuldevan/Leetcode./tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/Athuldevan/Leetcode./tree/master/0875-longest-mountain-in-array) |
+| [0917-boats-to-save-people](https://github.com/Athuldevan/Leetcode./tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/1019-squares-of-a-sorted-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/Athuldevan/Leetcode./tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Athuldevan/Leetcode./tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/1019-squares-of-a-sorted-array) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
 | [0875-longest-mountain-in-array](https://github.com/Athuldevan/Leetcode./tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Athuldevan/Leetcode./tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Athuldevan/Leetcode./tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/Athuldevan/Leetcode./tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/Athuldevan/Leetcode./tree/master/1018-largest-perimeter-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Athuldevan/Leetcode./tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Combinatorics
