@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Athuldevan/Leetcode./tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Athuldevan/Leetcode./tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Athuldevan/Leetcode./tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/Athuldevan/Leetcode./tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Athuldevan/Leetcode./tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/Athuldevan/Leetcode./tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Athuldevan/Leetcode./tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Athuldevan/Leetcode./tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Athuldevan/Leetcode./tree/master/1833-find-the-highest-altitude) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Athuldevan/Leetcode./tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
 |  |
