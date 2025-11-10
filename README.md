@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Athuldevan/Leetcode./tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Athuldevan/Leetcode./tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Athuldevan/Leetcode./tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Athuldevan/Leetcode./tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Athuldevan/Leetcode./tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Athuldevan/Leetcode./tree/master/0319-bulb-switcher) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Athuldevan/Leetcode./tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Athuldevan/Leetcode./tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Athuldevan/Leetcode./tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Athuldevan/Leetcode./tree/master/0342-power-of-four) |
