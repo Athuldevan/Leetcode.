@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Athuldevan/Leetcode./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Athuldevan/Leetcode./tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Athuldevan/Leetcode./tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Athuldevan/Leetcode./tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Athuldevan/Leetcode./tree/master/0611-valid-triangle-number) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Athuldevan/Leetcode./tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Athuldevan/Leetcode./tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Athuldevan/Leetcode./tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Athuldevan/Leetcode./tree/master/1013-fibonacci-number) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Athuldevan/Leetcode./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Athuldevan/Leetcode./tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0908-middle-of-the-linked-list) |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0838-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
