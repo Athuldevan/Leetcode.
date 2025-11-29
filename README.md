@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Athuldevan/Leetcode./tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Athuldevan/Leetcode./tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/Athuldevan/Leetcode./tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Athuldevan/Leetcode./tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Athuldevan/Leetcode./tree/master/0137-single-number-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Athuldevan/Leetcode./tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Athuldevan/Leetcode./tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/Athuldevan/Leetcode./tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Athuldevan/Leetcode./tree/master/2048-build-array-from-permutation) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Athuldevan/Leetcode./tree/master/0054-spiral-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Athuldevan/Leetcode./tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Athuldevan/Leetcode./tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Linked List
