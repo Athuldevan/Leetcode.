@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Athuldevan/Leetcode./tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Athuldevan/Leetcode./tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Athuldevan/Leetcode./tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/Athuldevan/Leetcode./tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Athuldevan/Leetcode./tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Athuldevan/Leetcode./tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Athuldevan/Leetcode./tree/master/0326-power-of-three) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Athuldevan/Leetcode./tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Athuldevan/Leetcode./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Athuldevan/Leetcode./tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Athuldevan/Leetcode./tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Athuldevan/Leetcode./tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Athuldevan/Leetcode./tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Athuldevan/Leetcode./tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Athuldevan/Leetcode./tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Athuldevan/Leetcode./tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/Athuldevan/Leetcode./tree/master/0875-longest-mountain-in-array) |
 ## Matrix
 |  |
