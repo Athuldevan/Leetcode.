@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Athuldevan/Leetcode./tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Athuldevan/Leetcode./tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Athuldevan/Leetcode./tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Athuldevan/Leetcode./tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Athuldevan/Leetcode./tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Athuldevan/Leetcode./tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Athuldevan/Leetcode./tree/master/0319-bulb-switcher) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Athuldevan/Leetcode./tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Athuldevan/Leetcode./tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Athuldevan/Leetcode./tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Athuldevan/Leetcode./tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Athuldevan/Leetcode./tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Athuldevan/Leetcode./tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Athuldevan/Leetcode./tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Athuldevan/Leetcode./tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Athuldevan/Leetcode./tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Athuldevan/Leetcode./tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Athuldevan/Leetcode./tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Athuldevan/Leetcode./tree/master/0349-intersection-of-two-arrays) |
