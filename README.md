@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Athuldevan/Leetcode./tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Athuldevan/Leetcode./tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Athuldevan/Leetcode./tree/master/2432-number-of-zero-filled-subarrays) |
+| [2460-apply-operations-to-an-array](https://github.com/Athuldevan/Leetcode./tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Athuldevan/Leetcode./tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Athuldevan/Leetcode./tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Athuldevan/Leetcode./tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Athuldevan/Leetcode./tree/master/2324-find-triangular-sum-of-an-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Athuldevan/Leetcode./tree/master/2460-apply-operations-to-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Athuldevan/Leetcode./tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Two Pointers
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Athuldevan/Leetcode./tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Athuldevan/Leetcode./tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athuldevan/Leetcode./tree/master/1019-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Athuldevan/Leetcode./tree/master/2460-apply-operations-to-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Athuldevan/Leetcode./tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/Athuldevan/Leetcode./tree/master/2634-minimum-common-value) |
